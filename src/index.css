@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: "Spectral",serif;
+  background-color: rgb(198,191,191);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h3,
+.nameKA{
+  color:rgb(83,79,79);
+}
+
+.nameKA{
+  font-size: xx-large;
+}
+
+.pBtn, .cBtn{
+  font-size: large;
+}
+
+.pBtn{
+  background:transparent;
+  border:none;
+  padding: 10px;
+  color:rgb(83,79,79);
+  cursor: pointer;
+  text-decoration: none;
+  font-family: "Karla",sans-serif;
+}
+
+.pBtn:hover{
+  text-decoration: underline;
+}
+
+.cBtn{
+  background:transparent;
+  font-family: "Karla",sans-serif;
+  border:none;
+  padding: 10px;
+  color:rgb(83,79,79);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.cBtn:hover{
+  text-decoration: underline;
+}
